@@ -17,11 +17,11 @@ The intended Input / Output datatypes are as follows ( Input / Output):
 
 TO DO LIST:
 
- - [] Network module:
+ - [x] Network module:
    - [x] Generate random weighted, undirected graph
    - [x] Define subset of possible shortest paths via BFS
-   - [] Convert found paths into kinetic reactions
-   - [] Store kinetic reactions in dictionaries
+   - [x] Convert found paths into kinetic reactions
+   - [x] Store kinetic reactions in dictionaries
 
  - [] Gillespie module:
    - [] Constrain simulated trajectories into fixed amount of timesteps
