@@ -23,10 +23,10 @@ TO DO LIST:
    - [x] Convert found paths into kinetic reactions
    - [x] Store kinetic reactions in dictionaries
 
- - [] Gillespie module:
-   - [] Constrain simulated trajectories into fixed amount of timesteps
-   - [] Write time steps, species counts and propensities into .txt file
-   - [] Store time steps, species counts and propensities into list of arrays
+ - [ ] Gillespie module:
+   - [ ] Constrain simulated trajectories into fixed amount of timesteps
+   - [ ] Write time steps, species counts and propensities into .txt file
+   - [ ] Store time steps, species counts and propensities into list of arrays
 
- - [] Parsing+Statistic:
-   - [] Write statistics per simulated trajectories into .csv files
+ - [ ] Parsing+Statistic:
+   - [ ] Write statistics per simulated trajectories into .csv files
