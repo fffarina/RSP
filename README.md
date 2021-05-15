@@ -24,7 +24,7 @@ TO DO LIST:
    - [x] Store kinetic reactions in dictionaries
 
  - [ ] Gillespie module:
-   - [ ] Constrain simulated trajectories into fixed amount of timesteps
+   - [x] Constrain simulated trajectories into fixed amount of timesteps
    - [ ] Write time steps, species counts and propensities into .txt file
    - [ ] Store time steps, species counts and propensities into list of arrays
 
