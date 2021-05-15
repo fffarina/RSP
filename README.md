@@ -25,10 +25,9 @@ TO DO LIST:
 
  - [ ] Gillespie module:
    - [x] Constrain simulated trajectories into fixed amount of timesteps
-   - [ ] Fix internal logic of the program in order to:
-         - [ ] Not interrupt simulation if no reactions found
-         - [ ] Don't allow negative species populations
-         - [x] Avoid usage of reserved words like "time" in dictionaries
+   - [ ] Not interrupt simulation if no reactions found
+   - [ ] Don't allow negative species populations
+   - [x] Avoid usage of reserved words like "time" in dictionaries
    - [ ] Write time steps, species counts and propensities into .txt file
    - [ ] Store time steps, species counts and propensities into list of arrays
 
